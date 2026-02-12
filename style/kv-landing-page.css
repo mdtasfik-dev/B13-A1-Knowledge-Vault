@@ -127,3 +127,47 @@ h1 span {
 .banner-container p {
     color: #ffffff;
 }
+.early-accessbtn {
+    display: flex;
+    align-items: center;
+    padding: 8px 12px;
+    border-radius: 1000px;
+    border: none;
+    gap: 6px;
+    color: #469165;
+    background-color: #FFFFFF;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0 auto 16px auto;
+}
+.early-accessbtn img{
+    height: 16px;
+    width: 16px;
+}
+.early-accessbtn:hover{
+    color: black;
+    background-color: lightgreen;
+}
+/* cards */
+.card-container {
+    margin-top: 80px;
+    text-align: center;
+}
+.card-content {
+    display: flex;
+    margin-top: 50px;
+    gap: 24px;
+}
+.card {
+    text-align: center;
+    padding: 24px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+}
+.card img {
+    background-color: #f95555;
+    border-radius: 100%;
+    padding: 14px;
+}
+
