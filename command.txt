@@ -10,3 +10,32 @@ git push -u origin main
 git remote add origin https://github.com/mdtasfik-dev/B13-A1-Knowledge-Vault.git
 git branch -M main
 git push -u origin main
+
+1.
+git commit -m "Create responsive landing page structure using HTML and external fonts"
+
+2.
+git commit -m "Add global CSS reset and shared UI styles"
+
+
+3.
+
+
+
+4.
+
+
+
+5.
+
+
+
+6.
+
+
+
+7.
+
+
+
+
