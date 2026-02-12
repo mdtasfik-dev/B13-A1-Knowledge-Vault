@@ -13,7 +13,7 @@ git push -u origin main
 
 
 git add .
-git commit -m "feat(css): style feature cards"
+git commit -m "feat(css): Brain section"
 git push origin main
 
 
