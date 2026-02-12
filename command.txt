@@ -11,6 +11,12 @@ git remote add origin https://github.com/mdtasfik-dev/B13-A1-Knowledge-Vault.git
 git branch -M main
 git push -u origin main
 
+
+git add .
+git commit -m "feat(css): implement hero section with background and CTA"
+git push origin main
+
+
 1.
 git commit -m "Create responsive landing page structure using HTML and external fonts"
 
@@ -19,23 +25,29 @@ git commit -m "Add global CSS reset and shared UI styles"
 
 
 3.
-
+git commit -m "feat(css): implement hero section with background and CTA"
 
 
 4.
+git commit -m "feat(css): style feature cards"
 
 
 
 5.
+git commit -m "feat(css): Brain section, and access section"
 
 
 
 6.
+git commit -m "fix(css): finalize footer styles"
 
 
 
 7.
+git commit -m "fix(css): Added mobile responsiveness"
 
+8.
+git commit -m "refactor(css): improve spacing, hover states, and consistency"
 
 
 

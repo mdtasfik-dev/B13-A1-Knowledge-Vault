@@ -84,3 +84,46 @@ p {
     gap: 16px;
     margin-top: 32px;
 }
+/* main style */
+
+ /* navbar */
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 0;
+    align-items: center;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 32px;
+}
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+/* hero */
+.banner-container {
+    text-align: center;
+    padding: 70px 120px 135px;
+    background-image: url("../assets/hero-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-content {
+    width: 700px;
+    margin: 0 auto;
+}
+.banner-container h1 {
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 84px;
+    color: #ffffff;
+}
+h1 span {
+    color: #30b868;
+}
+.banner-container p {
+    color: #ffffff;
+}
