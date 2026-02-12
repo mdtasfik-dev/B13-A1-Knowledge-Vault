@@ -1,0 +1,12 @@
+echo "# B13-A1-Knowledge-Vault" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mdtasfik-dev/B13-A1-Knowledge-Vault.git
+git push -u origin main
+
+
+git remote add origin https://github.com/mdtasfik-dev/B13-A1-Knowledge-Vault.git
+git branch -M main
+git push -u origin main
