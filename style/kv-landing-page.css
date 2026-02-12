@@ -181,6 +181,20 @@ h1 span {
     width: 600px;
     height: 600px;
 }
+.brain-text h4 {
+    color:#469165 ;
+    font-size:16px ;
+}
+.brain-text h2{
+    color: #001931;
+    font-size: 48px;
+    font-weight: bold;
+}
+.brain-text p{
+    color: #627382;
+    font-size: 16px;
+    line-height: 20px;
+}
 .brain-info {
     display: flex;
     gap: 6px;
